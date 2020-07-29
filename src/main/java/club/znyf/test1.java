@@ -9,4 +9,7 @@ public class test1 {
         System.out.println("!@313123213");
         System.out.println("sadfafasdfasdfasdfsd");
     }
+    public void test(){
+        System.out.println("主分支写的");
+    }
 }
